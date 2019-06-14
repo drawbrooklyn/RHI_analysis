@@ -1,0 +1,12 @@
+SUBPROGRAM,TYPE/LABEL,PROGRAM,GOAL,BENEFICIERIES,LOCATION,HOURS,PARTNERS
+CSA,sub-program,Red Hook Farms,"local farms, youth jobs, healthy food",Community,"Columbia st., Wolcott st.","am, pm",
+Fresh Food Box,sub-program,Red Hook Farms,"local farms, youth jobs, healthy food","NYCHA, SNAP","Columbia st., Wolcott st.","am, pm",
+Middle-School,sub-program,Youth Development,"academic success, self-esteem, self-identity, career opportunities, community building",Youth,Hicks st.,after school,
+High-School,sub-program,Youth Development,"academic success, self-esteem, self-identity, career opportunities, community building",Youth,Hicks st.,after school,
+Young Adults,sub-program,Youth Development,"academic success, self-esteem, self-identity, career opportunities, community building",Youth,Hicks st.,am,
+Digital Stewards,sub-program,Youth Development,"tech, self-esteem, self-identity, career opportunities, community building, , community hiring",Youth,Ferris st.,am,
+Participatory Research (PAR),sub-program,Community Building,"community building, , community hiring",Community,Hicks st.,am,Public Science Project
+Red Hook WiFi,sub-program,Community Building,"tech, community building, youth development, , community hiring",Community,Hicks st.,am,
+Local Leaders,sub-program,Community Building,"career opportunities, self-esteem, community building, community hiring",Community,Hicks st.,pm,
+RHI Fellows,sub-program,Community Hiring,"career opportunities, self-esteem, community building, community hiring",Community,Hicks st.,pm,
+Career Accelerator,sub-program,Community Hiring,"career opportunities, self-esteem, community building",Community,Hicks st.,am,

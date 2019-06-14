@@ -1,0 +1,6 @@
+LOCATION,TYPE/LABEL,SPACE_TYPES
+Hicks st.,location,"open space, small room, desk"
+Ferris st.,location,"open space, big room, small room, private room, desk"
+Columbia st.,location,outdoors
+Wolcott st.,location,"outdoors, private room"
+Van Brunt st.,location,desk

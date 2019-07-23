@@ -1,4 +1,4 @@
-NAME,TYPE/LABEL,IN PROGRAM,HOURS
+NAME,TYPE/LABEL,PROGRAM,HOURS
 Mid-School 1,participant,Middle School,after school
 Mid-School 2,participant,Middle School,after school
 Mid-School 3,participant,Middle School,after school
@@ -211,13 +211,13 @@ Real Rite 7,participant,Participatory Research (PAR),am
 Real Rite 8,participant,Participatory Research (PAR),am
 Real Rite 9,participant,Participatory Research (PAR),am
 Real Rite 10,participant,Participatory Research (PAR),am
-RHI Fellow 1 ,participant,RHI Fellows,"am, pm"
-RHI Fellow 2,participant,RHI Fellows,"am, pm"
-RHI Fellow 3,participant,RHI Fellows,"am, pm"
-RHI Fellow 4,participant,RHI Fellows,"am, pm"
-RHI Fellow 5,participant,RHI Fellows,"am, pm"
-RHI Fellow 6,participant,RHI Fellows,"am, pm"
-RHI Fellow 7,participant,RHI Fellows,"am, pm"
-RHI Fellow 8,participant,RHI Fellows,"am, pm"
-RHI Fellow 9,participant,RHI Fellows,"am, pm"
-RHI Fellow 10,participant,RHI Fellows,"am, pm"
+RHI Fellow 1 ,participant,RHI Fellows,pm
+RHI Fellow 2,participant,RHI Fellows,pm
+RHI Fellow 3,participant,RHI Fellows,pm
+RHI Fellow 4,participant,RHI Fellows,pm
+RHI Fellow 5,participant,RHI Fellows,pm
+RHI Fellow 6,participant,RHI Fellows,pm
+RHI Fellow 7,participant,RHI Fellows,pm
+RHI Fellow 8,participant,RHI Fellows,pm
+RHI Fellow 9,participant,RHI Fellows,pm
+RHI Fellow 10,participant,RHI Fellows,pm

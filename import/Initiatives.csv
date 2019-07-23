@@ -1,22 +1,19 @@
-INITIATIVE,TYPE/LABEL,SUBPROGRAM,PROGRAM,LOCATION,HOURS
-CSA Pick up - 1,initiative,Red Hook Farms,Red Hook Farms,Columbia st.,"Sat, am"
-CSA Pick up - 2,initiative,Red Hook Farms,Red Hook Farms,Wolcott st.,"Wed, pm"
-Weekly market,initiative,Red Hook Farms,Red Hook Farms,Hicks st.,"Thu, pm"
-Tutoring,initiative,Middle-School,youth development,Hicks st.,after school
-Educational Advocacy,initiative,Middle-School,youth development,Hicks st.,after school
-Strengths-Based Counseling,initiative,Middle-School,youth development,Hicks st.,after school
-Family Institutes of Bold Hope,initiative,Middle-School,youth development,Hicks st.,after school
-Mirrors of Strength,initiative,Middle-School,youth development,Hicks st.,after school
-Peer Health Educators,initiative,High-School,youth development,Ferris st.,after school
-Peer Counselors,initiative,High-School,youth development,Hicks st.,after school
-Radio Interns,initiative,High-School,youth development,Hicks st.,after school
-Math & Science Scholars,initiative,High-School,youth development,Hicks st.,after school
-RHI Ambassadors,initiative,High-School,youth development,Hicks st.,after school
-RHI College Scholars,initiative,High-School,youth development,Hicks st.,after school
-Young Chef Program,initiative,High-School,youth development,Hicks st.,after school
-Crews,initiative,High-School,youth development,Hicks st.,after school
-College Scholars Program,initiative,Young Adults,youth development,Hicks st.,after school
-Job Readiness and Subsidized Work Training,initiative,Young Adults,youth development,Hicks st.,after school
-Social Work and Case Management,initiative,Young Adults,youth development,Hicks st.,after school
-Real Rites,initiative,Participatory Research (PAR),"community building, youth development",Hicks st.,am
-Red Hook HUB,initiative,Red Hook WiFi,"community building, youth development",Wolcott st.,"am, after school, pm"
+INITIATIVE,TYPE/LABEL,SUBPROGRAM,PROGRAM,LOCATION,HOURS,CROSS
+Tutoring,initiative,Middle School,youth development,Hicks st.,after school,
+Educational Advocacy,initiative,Middle School,youth development,Hicks st.,after school,
+Strengths-Based Counseling,initiative,Middle School,youth development,Hicks st.,after school,
+Family Institutes of Bold Hope,initiative,Middle School,youth development,Hicks st.,after school,
+Mirrors of Strength,initiative,Middle School,youth development,Hicks st.,after school,
+Peer Health Educators,initiative,High School,youth development,Ferris st.,after school,
+Peer Counselors,initiative,High School,youth development,Hicks st.,after school,
+Radio Interns,initiative,High School,youth development,Hicks st.,after school,
+Math & Science Scholars,initiative,High School,youth development,Hicks st.,after school,
+RHI Ambassadors,initiative,High School,youth development,Hicks st.,after school,
+RHI College Scholars,initiative,High School,youth development,Hicks st.,after school,
+Young Chef Program,initiative,High School,youth development,Hicks st.,after school,
+Crews,initiative,High School,youth development,Hicks st.,after school,
+College Scholars Program,initiative,Young Adults,youth development,Hicks st.,after school,
+Job Readiness and Subsidized Work Training,initiative,Young Adults,youth development,Hicks st.,after school,
+Social Work and Case Management,initiative,Young Adults,youth development,Hicks st.,after school,
+Real Rites,initiative,Participatory Research (PAR),community building,Hicks st.,am,
+Red Hook HUB,initiative,Red Hook WiFi,community building,Hicks st.,full-time,

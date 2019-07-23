@@ -1,5 +1,8 @@
-PROGRAM,TYPE/LABEL,GOAL
-Red Hook Farms,program,"local farms, youth jobs, healthy food"
-Youth Development,program,"academic success, self-esteem, self-identity, career opportunities, community building"
-Community Building,program,community building
-Community Hiring,program,"community building, career opportunities, self-esteem"
+PROGRAM,TYPE/LABEL,LOCATION,GOAL
+Red Hook Farms,program,"Columbia st., Wolcott st.","local farms, youth jobs, healthy food"
+Middle School,program,,"academic success, self-esteem, self-identity, career opportunities, community building"
+High School,program,,"academic success, self-esteem, self-identity, career opportunities, community building"
+Young Adults,program,,"academic success, self-esteem, self-identity, career opportunities, community building"
+Community Building,program,,community building
+Community Hiring,program,,"community building, career opportunities, self-esteem"
+Management & Operations,program,Hicks st.,

@@ -1,12 +1,29 @@
-SUBPROGRAM,TYPE/LABEL,PROGRAM,GOAL,BENEFICIERIES,LOCATION,HOURS,PARTNERS
-CSA,sub-program,Red Hook Farms,"local farms, youth jobs, healthy food",Community,"Columbia st., Wolcott st.","am, pm",
-Fresh Food Box,sub-program,Red Hook Farms,"local farms, youth jobs, healthy food","NYCHA, SNAP","Columbia st., Wolcott st.","am, pm",
-Middle-School,sub-program,Youth Development,"academic success, self-esteem, self-identity, career opportunities, community building",Youth,Hicks st.,after school,
-High-School,sub-program,Youth Development,"academic success, self-esteem, self-identity, career opportunities, community building",Youth,Hicks st.,after school,
-Young Adults,sub-program,Youth Development,"academic success, self-esteem, self-identity, career opportunities, community building",Youth,Hicks st.,am,
-Digital Stewards,sub-program,Youth Development,"tech, self-esteem, self-identity, career opportunities, community building, , community hiring",Youth,Ferris st.,am,
-Participatory Research (PAR),sub-program,Community Building,"community building, , community hiring",Community,Hicks st.,am,Public Science Project
-Red Hook WiFi,sub-program,Community Building,"tech, community building, youth development, , community hiring",Community,Hicks st.,am,
-Local Leaders,sub-program,Community Building,"career opportunities, self-esteem, community building, community hiring",Community,Hicks st.,pm,
-RHI Fellows,sub-program,Community Hiring,"career opportunities, self-esteem, community building, community hiring",Community,Hicks st.,pm,
-Career Accelerator,sub-program,Community Hiring,"career opportunities, self-esteem, community building",Community,Hicks st.,am,
+SUBPROGRAM,TYPE/LABEL,PROGRAM,LOCATION,HOURS,ROOM,GOAL
+CSA (Wed),sub-program,Red Hook Farms,"Columbia st., Wolcott st.",weekly,,"local farms, youth jobs, healthy food"
+CSA (Sat),sub-program,Red Hook Farms,"Columbia st., Wolcott st.",weekly,,"local farms, youth jobs, healthy food"
+Fresh Food Box,sub-program,Red Hook Farms,"Columbia st., Wolcott st.",weekly,,"local farms, youth jobs, healthy food"
+Tutoring,sub-program,Middle School,Hicks st.,after school,,
+Educational Advocacy,sub-program,Middle School,Hicks st.,after school,,
+Strengths-Based Counseling,sub-program,Middle School,Hicks st.,after school,,
+Family Institutes of Bold Hope,sub-program,Middle School,Hicks st.,after school,,
+Mirrors of Strength,sub-program,Middle School,Hicks st.,after school,,
+Peer Health Educators,sub-program,High School,Hicks st.,after school,,
+Peer Counselors,sub-program,High School,Hicks st.,after school,,
+Radio Interns,sub-program,High School,Hicks st.,after school,,
+Math & Science Scholars,sub-program,High School,Hicks st.,after school,,
+RHI Ambassadors,sub-program,High School,Hicks st.,after school,,
+RHI College Scholars,sub-program,High School,Hicks st.,after school,,
+Young Chef Program,sub-program,High School,Hicks st.,after school,,
+Crews,sub-program,High School,Hicks st.,after school,,
+Counseling (Students),sub-program,High School,Hicks st.,full-time,,
+College Scholars,sub-program,Young Adults,Hicks st.,full-time,,
+Job Readiness,sub-program,Young Adults,Hicks st.,am,,
+Case Management,sub-program,Young Adults,Hicks st.,full-time,,
+Counseling (Yong Adults),sub-program,Young Adults,Hicks st.,full-time,,
+Employment Program,sub-program,Young Adults,Hicks st.,full-time,,
+Digital Stewards,sub-program,Young Adults,Ferris st.,am,,"tech, self-esteem, self-identity, career opportunities, community building, , community hiring"
+Participatory Research (PAR),sub-program,Community Building,Hicks st.,am,,"community building, , community hiring"
+Red Hook WiFi,sub-program,Community Building,Hicks st.,am,,"tech, community building, youth development, , community hiring"
+Local Leaders,sub-program,Community Building,Hicks st.,pm,,"career opportunities, self-esteem, community building, community hiring"
+RHI Fellows,sub-program,Community Hiring,Hicks st.,pm,,"career opportunities, self-esteem, community building, community hiring"
+Career Accelerator,sub-program,Community Hiring,Hicks st.,am,,"career opportunities, self-esteem, community building"
